@@ -1,0 +1,26 @@
+{
+  "name": "cadet",
+  "displayName": "Cadet",
+  "description": "Dark and minimalistic theme with Tailwind color palette",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cadet Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cadet-color-theme.json"
+      },
+      {
+        "label": "Cadet Cool Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cadet-cool-gray.json"
+      }
+    ]
+  }
+}
