@@ -1,6 +1,6 @@
 # README
 
-Ocean Eyes is a professional VS Code theme with deep blue/gray user interface and One Dark syntax highlighting. The dark UI colors, inspired by Tailwind CSS, were selected for long periods of coding with less strain on your eyes. Download from the VS Code extension marketplace here:
+Ocean Eyes is a professional VS Code theme with deep blue/gray user interface and One Dark syntax highlighting. The dark UI colors, inspired by Tailwind CSS, were selected for long periods of coding with less strain on your eyes. Download from the VS Code extension marketplace here: https://marketplace.visualstudio.com/items?itemName=SethCox.ocean-eyes
 
 ## Recommended
 

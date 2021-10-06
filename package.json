@@ -1,8 +1,12 @@
 {
   "name": "ocean-eyes",
   "displayName": "Ocean Eyes",
+  "publisher": "SethCox",
+  "repository": "https://github.com/sethaddison/ocean-eyes-vscode-theme",
   "description": "A professional VS Code theme with deep blue/gray user interface and One Dark syntax highlighting. The dark UI colors, inspired by Tailwind CSS, were selected for long periods of coding with less strain on your eyes.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "galleryBanner.color": "#14202C",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.57.0"
   },
