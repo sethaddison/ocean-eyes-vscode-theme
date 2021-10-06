@@ -1,7 +1,7 @@
 {
-  "name": "cadet",
-  "displayName": "Cadet",
-  "description": "Dark and minimalistic theme with Tailwind color palette",
+  "name": "ocean-eyes",
+  "displayName": "Ocean Eyes",
+  "description": "A professional VS Code theme with deep blue/gray user interface and One Dark syntax highlighting. The dark UI colors, inspired by Tailwind CSS, were selected for long periods of coding with less strain on your eyes.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.57.0"
@@ -12,14 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cadet Dark",
+        "label": "Ocean Eyes",
         "uiTheme": "vs-dark",
-        "path": "./themes/cadet-color-theme.json"
-      },
-      {
-        "label": "Cadet Cool Gray",
-        "uiTheme": "vs-dark",
-        "path": "./themes/cadet-cool-gray.json"
+        "path": "./themes/ocean-eyes.json"
       }
     ]
   }
